@@ -1,0 +1,10 @@
+C:\Projects\cosmos db demo\CosmosDBCacheLib\bin\Release\netcoreapp3.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Projects\cosmos db demo\CosmosDBCacheLib\bin\Release\netcoreapp3.0\Cosmos.CRTCompat.dll
+C:\Projects\cosmos db demo\CosmosDBCacheLib\bin\Release\netcoreapp3.0\CosmosDBCacheLib.deps.json
+C:\Projects\cosmos db demo\CosmosDBCacheLib\bin\Release\netcoreapp3.0\CosmosDBCacheLib.dll
+C:\Projects\cosmos db demo\CosmosDBCacheLib\bin\Release\netcoreapp3.0\CosmosDBCacheLib.pdb
+C:\Projects\cosmos db demo\CosmosDBCacheLib\obj\Release\netcoreapp3.0\CosmosDBCacheLib.AssemblyInfoInputs.cache
+C:\Projects\cosmos db demo\CosmosDBCacheLib\obj\Release\netcoreapp3.0\CosmosDBCacheLib.AssemblyInfo.cs
+C:\Projects\cosmos db demo\CosmosDBCacheLib\obj\Release\netcoreapp3.0\CosmosDBCacheLib.dll
+C:\Projects\cosmos db demo\CosmosDBCacheLib\obj\Release\netcoreapp3.0\CosmosDBCacheLib.pdb
+C:\Projects\cosmos db demo\CosmosDBCacheLib\obj\Release\netcoreapp3.0\CosmosDBCacheLib.csprojAssemblyReference.cache
