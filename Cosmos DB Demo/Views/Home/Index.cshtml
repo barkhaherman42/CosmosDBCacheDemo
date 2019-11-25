@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome to the Cache Demo</h1>
+        <form action="Home/AddCache" method="post">
+            <label for="CacheKey">Enter a cache key to add:</label><br />
+            <input type="text" name="CacheKey" /><br />
+            <label for="CacheItem">Enter a cache Item to add:</label><br />
+            <input type="text" name="CacheItem" /><br />
+            <input type="submit" />
+
+        </form>
+        <p>OR</p>
+        <form action="Home/ShowCache" method="post">
+            <label for="CacheKey">Enter a cache key to show:</label><br />
+            <input type="text" name="CacheKey" /><br />
+            <input type="submit" />
+
+        </form>
+
+    </div>
